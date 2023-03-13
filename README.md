@@ -10,7 +10,7 @@
 
 - Je suis toujours à la recherche de nouveaux défis et de nouvelles opportunités pour développer mes compétences en programmation, alors si vous avez un projet intéressant ou si vous cherchez un développeur pour rejoindre votre équipe, n'hésitez pas à me contacter.
 
-Merci de votre visite sur monprofil GitHub ! 😉
+Merci de votre visite sur mon profil GitHub ! 😉
 
 ### 👩‍💻 Languages
 
