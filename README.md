@@ -6,10 +6,10 @@
 
 ## 👩‍💻 Mes compétences
 
--Langages de programmation : Javascript, VBA
--Frameworks et bibliothèques : React.js, Node.js, Discord.js
--Bases de données : MySQL, MongoDB, MariaDB
--Outils de développement : Git, Visual Studio Code, Figma
+- Langages de programmation : Javascript, VBA
+- Frameworks et bibliothèques : React.js, Node.js, Discord.js
+-  Bases de données : MySQL, MongoDB, MariaDB
+- Outils de développement : Git, Visual Studio Code, Figma
 
 ## 📄 Mes projets
 
