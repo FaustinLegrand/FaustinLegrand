@@ -6,7 +6,7 @@
 
 ## 👩‍💻 Mes compétences
 
-- Langages de programmation : Javascript, VBA
+- Langages de programmation : ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), VBA
 - Frameworks et bibliothèques : React.js, Node.js, Discord.js
 -  Bases de données : MySQL, MongoDB, MariaDB
 - Outils de développement : Git, Visual Studio Code, Figma
