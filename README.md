@@ -1,6 +1,6 @@
 # Hello World !
 
-### 🎙 Présentation
+## 🎙 Présentation
 
 - Bonjour et bienvenue sur mon profil GitHub ! Je suis Faustin, un développeur passionné par la création d'applications. Je suis particulièrement intéressé par les mobiles, et j'aime explorer de nouvelles façons de créer des applications innovantes.
 
@@ -12,6 +12,6 @@
 
 Merci de votre visite sur mon profil GitHub ! 😉
 
-### 👩‍💻 Languages
+## 👩‍💻 Languages
 
 ###
