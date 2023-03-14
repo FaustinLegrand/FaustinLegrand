@@ -8,7 +8,7 @@
 
 - Langages de programmation : ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript), ![VBA](https://img.shields.io/badge/-VBA-green?style=flat&logo=microsoftexcel)
 - Frameworks et bibliothèques : ![React.js](https://img.shields.io/badge/-React.js-grey?style=flat&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-grey?style=flat&logo=nodedotjs), ![Discord.js](https://img.shields.io/badge/-Discord.js-grey?style=flat&logo=discord)
--  Bases de données : !https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql, ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb), ![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=flat&logo=mariadb)
+-  Bases de données : ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql), ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb), ![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=flat&logo=mariadb)
 - Outils de développement : ![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git), ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-grey?style=flat&logo=visualstudiocode), ![Figma](https://img.shields.io/badge/-Figma-grey?style=flat&logo=figma)
 
 ## 📄 Mes projets
