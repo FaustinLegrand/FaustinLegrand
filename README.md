@@ -14,3 +14,8 @@
 ## 📄 Mes projets
 
 ## 🎫 Comment me contacter
+
+###Plusieurs moyens de me contacter sont disponibles:
+
+- Discord: Faustin#2844
+- Mail: faustin.legrand@outlook.com
