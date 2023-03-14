@@ -1,6 +1,4 @@
-```js 
- console.log("Hello World!");
-```
+# Hello World !
 
 ## 🎙 Présentation
 
