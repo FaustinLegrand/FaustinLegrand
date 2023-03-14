@@ -13,6 +13,8 @@
 
 ## 📄 Mes projets
 
+### Je trouve que c'est bien vide par ici, peut-être attendre encore un peu
+
 ## 🎫 Comment me contacter
 
 ### Plusieurs moyens de me contacter sont disponibles:
