@@ -13,7 +13,7 @@
 
 ## 📄 Mes projets
 
-### Je trouve que c'est bien vide par ici, peut-être attendre encore un peu
+### Actualise, ça doit être un bug
 
 ## 🎫 Comment me contacter
 
