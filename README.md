@@ -2,7 +2,7 @@
 
 ## 👋 Présentation
 
-- Je suis un développeur passionné avec une expérience de plusieurs années dans la programmation et la conception d'application mobile. J'ai travaillé sur une variété de projets, allant des bots discord aux applications mobiles.
+- Je suis un développeur passionné avec une expérience de plusieurs années dans la programmation. J'ai travaillé sur une variété de projets, allant des bots discord aux sites internet.
 
 ## 👩‍💻 Mes compétences
 
