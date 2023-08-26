@@ -19,5 +19,5 @@
 
 ### Plusieurs moyens de me contacter sont disponibles:
 
-- Discord: Faustin#2844
+- Discord: fuastino
 - Mail: faustin.legrand@outlook.com
