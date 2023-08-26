@@ -13,7 +13,7 @@
 
 ## 📄 Mes projets
 
- [SOON] [ScriptWorld](https://scriptworld.fr/)
+[SOON] [ScriptWorld](https://scriptworld.fr/)
 
 ## 🎫 Comment me contacter
 
