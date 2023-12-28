@@ -19,5 +19,5 @@
 
 ### Plusieurs moyens de me contacter sont disponibles:
 
-- Discord: fuastino
+- Discord: [faustinlevrai](https://discord.com/users/492053539292708865)
 - Mail: faustin.legrand@outlook.com
