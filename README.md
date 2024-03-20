@@ -13,7 +13,8 @@
 
 ## 📄 Mes projets
 
-[SOON] [ScriptWorld](https://scriptworld.fr/)
+[SOON] [ScriptWorld](https://www.scriptworld.fr/)
+[SOON] [DevosCode](https://www.devoscode.fr/) 
 
 ## 🎫 Comment me contacter
 
