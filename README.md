@@ -9,7 +9,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0000000?v=4" alt="[faustinlegrand] Profile Picture" width="150" />
+  <img src="https://cdn.discordapp.com/attachments/1001871141121573014/1279238656313528402/Faufau.png?ex=66d3b756&is=66d265d6&hm=393b0af243bb7d6a82e59d7ce150715e3cef39fe123413e73384682fa7d13358&" alt="[faustinlegrand] Profile Picture" width="150" />
 </p>
 
 <!-- About Me -->
