@@ -1,7 +1,5 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Bonjour%20!%20Bienvenue%20sur%20mon%20profil%20GitHub%20!-brightgreen?style=for-the-badge" alt="Bonjour :)" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55F700&width=435&lines=Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
 
 <!-- Title -->
 <h1 align="center">Salut ! Je suis Faustin Legrand</h1>
