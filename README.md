@@ -1,23 +1,79 @@
-# Hello World !
+<!-- Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Bonjour%20!%20Bienvenue%20sur%20mon%20profil%20GitHub%20!-brightgreen?style=for-the-badge" alt="Bonjour :)" />
+</p>
 
-## 👋 Présentation
+<!-- Title -->
+<h1 align="center">Salut ! Je suis Faustin Legrand</h1>
+<p align="center">Développeur passionné | Créateur de projets innovants</p>
 
-- Je suis un développeur passionné avec une expérience de plusieurs années dans la programmation. J'ai travaillé sur une variété de projets, allant des bots discord aux sites internet.
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/0000000?v=4" alt="[faustinlegrand] Profile Picture" width="150" />
+</p>
 
-## 👩‍💻 Mes compétences
+<!-- About Me -->
+## À propos de moi
+Je suis un développeur passionné avec une expertise en développement web. J'aime travailler sur des projets innovants et résoudre des problèmes complexes.
 
-- Langages de programmation : ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript), ![VBA](https://img.shields.io/badge/-VBA-green?style=flat&logo=microsoftexcel), ![HTML](https://img.shields.io/badge/-HTML-grey?style=flat&logo=HTML5), ![CSS](https://img.shields.io/badge/-CSS-grey?style=flat&logo=CSS3)
-- Frameworks et bibliothèques : ![React.js](https://img.shields.io/badge/-React.js-grey?style=flat&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-grey?style=flat&logo=nodedotjs), ![Discord.js](https://img.shields.io/badge/-Discord.js-grey?style=flat&logo=discord)
--  Bases de données : ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql), ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb), ![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=flat&logo=mariadb)
-- Outils de développement : ![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git), ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-grey?style=flat&logo=visualstudiocode), ![Figma](https://img.shields.io/badge/-Figma-grey?style=flat&logo=figma), ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat&logo=Trello)
+- 🔭 Je travaille actuellement sur Appify
+- 🌱 J'apprends au maximum Javascript
+- 🤔 Je suis ouvert à des opportunités de collaboration
+- 💬 N'hésite pas à me contacter pour des questions ou des collaborations
 
-## 📄 Mes projets
+<!-- Tech Stack -->
+## Tech Stack
 
-[SOON] [Twist&Toast](https://www.tist&toast.fr/)
+### Langages
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-## 🎫 Comment me contacter
+### Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
 
-### Plusieurs moyens de me contacter sont disponibles:
+### Outils
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-- Discord: [faustinlevrai](https://discord.com/users/492053539292708865)
-- Mail: faustin.legrand@outlook.com
+
+<!-- Stats -->
+## Statistiques GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faustinlegrand&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" alt="Statistiques GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustinlegrand&layout=compact&hide_border=true&theme=dark" alt="Langages principaux" />
+</p>
+
+<!-- Recent Projects -->
+## Projets Récents
+
+- [**StreamDeck**](https://github.com/FaustinLegrand/StreamDeck) - Connecter et configurer votre StreamDeck. 
+
+- [**Appify**](https://github.com/FaustinLegrand) - Créer votre propre application mobile en No-Code. 
+
+
+<!-- Contact -->
+## Me Contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/faustinlegrand)
+- 📧 [Email](mailto:faustin.legrand@outlook.com)
+- 🐦 [Twitter](https://twitter.com/faustinlegrand)
+- 🌐 [Portfolio](https://faustin.me)
+- 💬 [Discord](https://discord.com/users/492053539292708865)
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Merci%20de%20visiter%20mon%20profil%20!-Profitez%20de%20votre%20séjour!-blue?style=for-the-badge" alt="Aurevoir :(" />
+</p>
