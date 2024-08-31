@@ -1,5 +1,5 @@
 <!-- Header -->
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55F700&width=435&lines=Bienvenue+sur+mon+profil+Github+!" alt="Typing SVG" /></a>
+<div href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55F700&width=435&lines=Bienvenue+sur+mon+profil+Github+!" alt="Typing SVG" /></div>
 
 <!-- Title -->
 <h1 align="center">Salut ! Je suis Faustin Legrand</h1>
