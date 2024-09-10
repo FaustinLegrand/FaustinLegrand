@@ -67,7 +67,9 @@ Je suis un développeur passionné avec une expertise en développement web. J'a
 
 - [**StreamDeck**](https://github.com/FaustinLegrand/StreamDeck) - Connecter et configurer votre StreamDeck. 
 
-- [**Appify**](https://github.com/FaustinLegrand) - Créer votre propre application mobile en No-Code. 
+- [**Appify**](https://github.com/FaustinLegrand) - Créer votre propre application mobile en No-Code.
+
+- [**Aide Urgente à l'Emploi**](https://github.com/FaustinLegrand/AUE) - Modifier votre CV ou Lettre de motivation simplement. 
 
 
 <!-- Contact -->
