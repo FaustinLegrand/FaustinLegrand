@@ -14,8 +14,8 @@
 ## À propos de moi
 Je suis un développeur passionné avec une expertise en développement web. J'aime travailler sur des projets innovants et résoudre des problèmes complexes.
 
-- 🔭 Je travaille actuellement sur Appify
-- 🌱 J'apprends au maximum Javascript
+- 🔭 Je travaille actuellement sur GlobalFind
+- 🌱 J'apprends le maximum de chose
 - 🤔 Je suis ouvert à des opportunités de collaboration
 - 💬 N'hésite pas à me contacter pour des questions ou des collaborations
 
